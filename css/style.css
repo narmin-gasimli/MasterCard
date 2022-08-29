@@ -1,0 +1,53 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(1614368028_51-p-besshovnie-foni-svetlie-53.jpg);
+}
+
+.first
+{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(255, 40, 40);
+    border-radius: 50%;
+    position: relative;
+    left: 280px;
+    top: 35px;
+    opacity: 0.8;
+}
+
+.second
+{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(240, 97, 2);
+    border-radius: 50%;
+    position: absolute;
+    left: 300px;
+    opacity: 0.8;
+}
+.nthree
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 100px;
+    margin-left: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.four
+{
+    font-size: 130px;
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    padding-right: 250px;
+    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+}
